@@ -5,19 +5,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elvis888361" alt="elvis888361" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Elvis888361/Elvis888361](https://github.com/Elvis888361/Elvis888361)
+- 👨‍💻 All of my projects are available at [https://github.com/vincent792](https://github.com/vincent792)
 
 - 💬 Ask me about **python , django, react, react native,android**
 
 - 📫 How to reach me **vincentwambu9@gmail.com**
 
-- 📄 Know about my experiences []()
+- 📄 Know about my experiences [https://github.com/vincent792](https://github.com/vincent792)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@elvisndegwa1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@elvisndegwa1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/elvis ndegwa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvis ndegwa" height="30" width="40" /></a>
-<a href="https://instagram.com/elvisndesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvisndesh" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vincent-wambua-187894250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elvis ndegwa" height="30" width="40" /></a>
+<a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="elvisndesh" height="30" width="40" /></a>
+  <a href="#" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AWhatsApp.svg&psig=AOvVaw31qAZQaPgzG3tc5JzOALSb&ust=1675940419668000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCMittOPihf0CFQAAAAAdAAAAABAE" alt="elvisndesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
