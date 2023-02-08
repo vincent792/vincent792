@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Elvis Ndegwa Kangethe</h1>
+<h1 align="center">Hi 👋, I'm Vincent Wambua Mutie</h1>
 <h3 align="center">A passionate frontend and Backend developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvis888361&label=Profile%20views&color=0e75b6&style=flat" alt="elvis888361" /> </p>
@@ -7,11 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Elvis888361/Elvis888361](https://github.com/Elvis888361/Elvis888361)
 
-- 💬 Ask me about **react,laravel,android**
+- 💬 Ask me about **python , django, react, react native,android**
 
-- 📫 How to reach me **elvisndegwa90@gmail.com**
+- 📫 How to reach me **vincentwambu9@gmail.com**
 
-- 📄 Know about my experiences [https://wtx1dxer1aae6mbeuix2ka.on.drv.tw/www.myweb.com](https://wtx1dxer1aae6mbeuix2ka.on.drv.tw/www.myweb.com)
+- 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
