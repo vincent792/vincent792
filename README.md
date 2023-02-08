@@ -29,7 +29,10 @@
 <p><a href="http://ko-fi.com/vincent792"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="elvisndegwa90@gmail.com" /></a></p><br><br>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvis888361&show_icons=true&locale=en&layout=compact" alt="elvis888361" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elvis888361&show_icons=true&locale=en&layout=compact" alt="elvis888361" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvis888361&" alt="elvis888361" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elvis888361&" alt="elvis888361" /></p>
+
 
