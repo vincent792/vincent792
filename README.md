@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vincent792](https://github.com/vincent792)
 
+- 👨‍💻 View my CV or Resume  at [https://vincent792.github.io/](https://vincent792.github.io/)
+
 - 📝Also contact me on whatsapp [+254771382552](+254771382552)
 
 - 💬 Ask me about **django, drf, react, bootstrap and more**
