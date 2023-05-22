@@ -20,6 +20,7 @@
 - 💬 Ask me about **django, drf, react, bootstrap and more**
 
 - 📫 How to reach me **vincentdeveloper101@gmail.com**
+- 📫 How to reach me **vincentwambu9@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
