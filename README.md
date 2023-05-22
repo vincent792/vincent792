@@ -16,8 +16,10 @@
 - 👨‍💻 View my CV or Resume  at [https://vincent792.github.io/](https://vincent792.github.io/)
 
 - 📝Also contact me on whatsapp [+254771382552](+254771382552)
+- 📝This is My Youtube Channel **subscribe , like  and share ** [+254771382552](+254771382552)
 
 - 💬 Ask me about **django, drf, react, bootstrap and more**
+- 💬 Support and Buy My code at  **[https://vincent792.github.io/](https://vincent792.github.io/)**
 
 - 📫 How to reach me **vincentdeveloper101@gmail.com**
 - 📫 How to reach me **vincentwambu9@gmail.com**
